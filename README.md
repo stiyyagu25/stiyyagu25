@@ -2,7 +2,7 @@
 
 <p>
   <em>
-    
+    An ambitious Masters Health Informatics candidate 🎓, blending data-driven analysis and technology proficiency 💻. Passionate about pioneering innovative solutions 🚀, dedicated to creating transformative impacts in healthcare 🏥 by integrating biotech insights with tech prowess 🧬.
   </em>
 </p>
 
@@ -11,8 +11,12 @@
   
 ### Sharing a Glimpse of My Personal Side:
 
-5 lines
-<br/> 
+- <b> Healthcare Trailblazer 🚀 :</b>  I fuse cutting-edge technology with healthcare insights, pioneering new paths for data-driven care.
+- <b> Insight Architect 🏗️ : </b> Crafting robust frameworks, I translate data into actionable strategies, driving efficiency and innovation.
+- <b> Empathetic Analyst 🧠 : </b> Keen understanding of patient needs, I harness the power of analytics to enhance patient-centered care.
+- <b> Change Agent 🔄 : </b> Committed to transforming healthcare paradigms, I lead with passion, vision, and a relentless pursuit of excellence.
+- <b> Collaboration Maestro 🤝 : </b>  Bridging disciplines and stakeholders, I orchestrate synergistic collaborations that amplify the impact of health informatics.
+
 </em>
 
 ### Technologies & Tools
