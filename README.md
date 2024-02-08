@@ -3,12 +3,8 @@
 <p>
   <em>
     A proactive and dedicated Health Informatics and Analytics graduate, skilled in leveraging data-driven insights to revolutionize healthcare delivery and patient outcomes. With a strong foundation in biotechnology and a specialized focus on health informatics, passionate about harnessing the power of data to drive positive change in the healthcare industry.
-
-    Lets connect ! <em> [Click here](https://www.linkedin.com/in/sucharitha-reddy-tiyyagura/) </em>
-  </em>
-</p>
-
-<em>
+<p>Let's connect! <a href="https://www.linkedin.com/in/sucharitha-reddy-tiyyagura/">Click here</a></p>
+    
   
 ### Sharing a Glimpse of My Personal Side:
 
