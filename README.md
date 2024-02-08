@@ -2,7 +2,9 @@
 
 <p>
   <em>
-    An ambitious Masters Health Informatics candidate 🎓, blending data-driven analysis and technology proficiency 💻. Passionate about pioneering innovative solutions 🚀, dedicated to creating transformative impacts in healthcare 🏥 by integrating biotech insights with tech prowess 🧬.
+    A proactive and dedicated Health Informatics and Analytics graduate, skilled in leveraging data-driven insights to revolutionize healthcare delivery and patient outcomes. With a strong foundation in biotechnology and a specialized focus on health informatics, passionate about harnessing the power of data to drive positive change in the healthcare industry.
+
+    Lets connect ! 
   </em>
 </p>
 
